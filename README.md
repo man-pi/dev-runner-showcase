@@ -1,5 +1,7 @@
 # Dev Runner
 
+> Part of a larger agent platform. ▶ [Watch the 90-second overview](https://github.com/man-pi)
+
 Builds tasks with Claude Code. Set a task to **Ready for dev** in MemoPile and Dev Runner picks it up, builds it in the right app, writes its Playwright tests and hands it over for testing. A person signs off every commit before it ships.
 
 > **Source code is private.** This repository shows what Dev Runner does and how it is built. The code is available on request.
